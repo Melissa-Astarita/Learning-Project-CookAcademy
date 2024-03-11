@@ -1,4 +1,5 @@
-Cook Academy Project 
+// Cook Academy Project 
+   
     | -> CookAcademy Folder
        | -> Assets Folder
           | -> AccentColor colorset Folder
@@ -18,7 +19,6 @@ Cook Academy Project
           | -> Lunch imageset Folder
                | -> lunch.jpeg
                | -> Contents.Json
-
        | -> Models Folder
            | -> Recipe.swift
        | -> Preview Content Folder
